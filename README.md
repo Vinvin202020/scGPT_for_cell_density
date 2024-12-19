@@ -40,6 +40,7 @@ $ poetry install
 ---
 
 Below is a the link of the pretrained model. 
+
 https://drive.google.com/drive/folders/1oWh_-ZRdhtoGQ2Fw24HP41FgLoomVo-y
 
 Model files should placed in the following directory:
@@ -50,6 +51,7 @@ scGPT_for_cell_density/save/scGPT_human
 ---
 
 You can find the dataset used to fine-tune the model for cell density prediction on the Xenium page.
+
 https://www.10xgenomics.com/datasets/preview-data-ffpe-human-lung-cancer-with-xenium-multimodal-cell-segmentation-1-standard
 
 Dataset files should be placed in the following directory:
