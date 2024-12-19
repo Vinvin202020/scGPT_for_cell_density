@@ -2,8 +2,8 @@
 
 This repository contains the codebase for **scGPT: Towards Building a Foundation Model for Single-Cell Multi-omics Using Generative AI**. The project leverages scGPT to explore its applicability in spatial transcriptomics tasks such as cell density estimation.
 
-### Online Applications
-You can now use scGPT through browser-based apps hosted with cloud GPUs. These include:
+### Online Applications of scGPT
+scGPT can be used through browser-based apps hosted with cloud GPUs. These include:
 - Reference mapping
 - Cell annotation
 - Gene Regulatory Network (GRN) inference
