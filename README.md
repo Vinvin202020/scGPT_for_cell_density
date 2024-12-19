@@ -43,6 +43,7 @@ Below is a the link of the pretrained model.
 https://drive.google.com/drive/folders/1oWh_-ZRdhtoGQ2Fw24HP41FgLoomVo-y
 
 Model files should placed in the following directory:
+
 scGPT_for_cell_density/save/scGPT_human
 ### Fine-tuning spatial Dataset for scGPT 
 
@@ -52,7 +53,18 @@ You can find the dataset used to fine-tune the model for cell density prediction
 https://www.10xgenomics.com/datasets/preview-data-ffpe-human-lung-cancer-with-xenium-multimodal-cell-segmentation-1-standard
 
 Dataset files should be placed in the following directory:
+
 scGPT_for_cell_density/run/data
+### Tasks/Milestones:
+- Get familiar with transcriptomics concepts and data
+- Understand scGPT model and code, 
+- Set up the environment, run the code, and explore the tutorial notebooks provided by scGPT.
+- Implement cell density prediction and neighbors' cell type prediction from scGPT representations:
+- Decide on a way to compute cell density based on the coordinates within the spatial transcriptomics data
+- Decide on an architecture for the prediction head
+- Train the prediction head on the cell density prediction task
+- Compare predictions to PCA baseline 
+- Summarize the model and your cell density prediction outcomes in a report
 
 ### Acknowledgements
 ---
