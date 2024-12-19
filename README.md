@@ -41,6 +41,7 @@ $ poetry install
 
 Below is a the link of the pretrained model. 
 https://drive.google.com/drive/folders/1oWh_-ZRdhtoGQ2Fw24HP41FgLoomVo-y
+
 Model files should placed in the following directory:
 scGPT_for_cell_density/save/scGPT_human
 ### Fine-tuning spatial Dataset for scGPT 
@@ -54,6 +55,8 @@ Dataset files should be placed in the following directory:
 scGPT_for_cell_density/run/data
 
 ### Acknowledgements
-
 ---
+scGPT: Towards Building a Foundation Model for Single-Cell Multi-omics Using Generative AI
+10X genomics
+chatGPT for annotation of code
 
