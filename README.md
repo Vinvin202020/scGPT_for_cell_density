@@ -65,6 +65,7 @@ scGPT_for_cell_density/run/data
 - run/**Cell_density_classif** : Incomplete notebook where the cell density problem is approached as a classification task.
 - run/**Results_analysis** : Notebook where the results are analysed.
 - run/draft/**First_glimpse_at_the_data** :  Notebook for initial exploration of the spatial dataset.
+- **bad_model** : Python file containing the prediction for the baseline models
 
 ### Tasks/Milestones:
 - **Get familiar with transcriptomics concepts and data** :
