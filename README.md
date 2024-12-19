@@ -57,6 +57,15 @@ https://www.10xgenomics.com/datasets/preview-data-ffpe-human-lung-cancer-with-xe
 Dataset files should be placed in the following directory:
 
 scGPT_for_cell_density/run/data
+
+
+### Notebook Organisation
+---
+- run/**Cell_density_regression** : Full notebook demonstrating the use of the scGPT pipeline to predict cell density through a regression approach.
+- run/**Cell_density_classif** : Incomplete notebook where the cell density problem is approached as a classification task.
+- run/**Results_analysis** : Notebook where the results are analysed.
+- run/draft/**First_glimpse_at_the_data** :  Notebook for initial exploration of the spatial dataset.
+
 ### Tasks/Milestones:
 - **Get familiar with transcriptomics concepts and data** :
   
@@ -83,15 +92,6 @@ scGPT_for_cell_density/run/data
   We then compared our model's predictions to a baseline. This helped us assess the effectiveness of our model by providing a point of reference for evaluation.
 
 - **Summarize the model and your cell density prediction outcomes in a report**
-
-### Notebook Organisation
----
-- run/**Cell_density_regression** : Full notebook demonstrating the use of the scGPT pipeline to predict cell density through a regression approach.
-- run/**Cell_density_classif** : Incomplete notebook where the cell density problem is approached as a classification task.
-- run/**Results_analysis** : Notebook where the results are analysed.
-- run/draft/**First_glimpse_at_the_data** :  Notebook for initial exploration of the spatial dataset.
-### Notes
----
 
 ### Acknowledgements
 ---
