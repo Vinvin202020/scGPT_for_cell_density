@@ -16,15 +16,12 @@ scGPT requires **Python ≥ 3.7.13** and **R ≥ 3.6.1**. Please ensure you have
 
 Installing scGPT
 scGPT is available on PyPI and can be installed using the following command:
-asdasd
-
-You can also install the required modules by using the **requirements.txt** file located in the docs directory.
-
-bash
+```bash
 pip install scgpt "flash-attn<1.0.5"  # optional, recommended
-Troubleshooting Installation Issues
-As of September 2023, newer versions of the google-orbax package may cause conflicts. If you encounter issues, use this alternative command:
-
+# As of 2023.09, pip install may not run with new versions of the google orbax package, if you encounter related issues, please use the following command instead:
+# pip install scgpt "flash-attn<1.0.5" "orbax<0.1.8"
+```
+You can also install the required modules by using the **requirements.txt** file located in the docs directory.
 
 pip install scgpt "flash-attn<1.0.5" "orbax<0.1.8"
 Optional: Logging and Visualization
