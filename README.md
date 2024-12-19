@@ -12,10 +12,13 @@ You can now use scGPT through browser-based apps hosted with cloud GPUs. These i
 
 ### Installation
 
-scGPT requires Python ≥ 3.7.13 and R ≥ 3.6.1. Please ensure you have the appropriate versions installed before proceeding with the installation.
+scGPT requires **Python ≥ 3.7.13** and **R ≥ 3.6.1**. Please ensure you have the appropriate versions installed before proceeding with the installation.
 
 Installing scGPT
 scGPT is available on PyPI and can be installed using the following command:
+asdasd
+
+You can also install the required modules by using the **requirements.txt** file located in the docs directory.
 
 bash
 pip install scgpt "flash-attn<1.0.5"  # optional, recommended
