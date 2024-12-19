@@ -39,6 +39,8 @@ pip install wandb
 
 Below is a the link of the pretrained model. 
 https://drive.google.com/drive/folders/1oWh_-ZRdhtoGQ2Fw24HP41FgLoomVo-y
+Model files should placed in the following directory:
+scGPT_for_cell_density/save/scGPT_human
 ### Fine-tuning spatial Dataset for scGPT 
 
 ---
