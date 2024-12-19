@@ -88,6 +88,7 @@ scGPT_for_cell_density/run/data
 ---
 - run/**Cell_density_regression** : Full notebook demonstrating the use of the scGPT pipeline to predict cell density through a regression approach.
 - run/**Cell_density_classif** : Incomplete notebook where the cell density problem is approached as a classification task.
+- run/**Results_analysis** : Notebook where the results are analysed.
 - run/draft/**First_glimpse_at_the_data** :  Notebook for initial exploration of the spatial dataset.
 ### Notes
 ---
