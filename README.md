@@ -70,7 +70,7 @@ scGPT_for_cell_density/run/data
 
 ### Acknowledgements
 ---
-scGPT: Towards Building a Foundation Model for Single-Cell Multi-omics Using Generative AI
-10X genomics
-chatGPT for annotation of code
+- scGPT: Towards Building a Foundation Model for Single-Cell Multi-omics Using Generative AI
+- 10X genomics
+- chatGPT for annotation of code
 
