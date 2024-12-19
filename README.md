@@ -23,8 +23,6 @@ pip install scgpt "flash-attn<1.0.5"  # optional, recommended
 ```
 You can also install the required modules by using the **requirements.txt** file located in the docs directory.
 
-pip install scgpt "flash-attn<1.0.5" "orbax<0.1.8"
-Optional: Logging and Visualization
 We recommend using wandb for logging and visualization. To install it, run:
 ```python
 pip install wandb
