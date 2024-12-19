@@ -33,11 +33,12 @@ We recommend using wandb for logging and visualization. To install it, run:
 pip install wandb
 ```
 
-loping, we are using the Poetry package manager. To install Poetry, follow the instructions here.
+For developing, we are using the Poetry package manager. To install Poetry, follow the instructions here.
 
+```bash
 $ git clone this-repo-url
 $ cd scGPT
-$ poetry install
+$ poetry install```
 ### Pretrained scGPT Model zoo
 
 ---
