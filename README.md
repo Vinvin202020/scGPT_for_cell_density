@@ -29,9 +29,9 @@ As of September 2023, newer versions of the google-orbax package may cause confl
 pip install scgpt "flash-attn<1.0.5" "orbax<0.1.8"
 Optional: Logging and Visualization
 We recommend using wandb for logging and visualization. To install it, run:
-
-
-pip install wandb
+```python
+def greet():
+    print("Hello, world!")
 
 ### Pretrained scGPT Model zoo
 
