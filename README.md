@@ -98,5 +98,5 @@ scGPT_for_cell_density/run/data
 ---
 - scGPT: Towards Building a Foundation Model for Single-Cell Multi-omics Using Generative AI
 - 10X genomics
-- chatGPT for annotation of code
+- chatGPT for annotation of code and reformulating
 
