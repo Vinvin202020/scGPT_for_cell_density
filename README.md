@@ -30,9 +30,13 @@ pip install scgpt "flash-attn<1.0.5" "orbax<0.1.8"
 Optional: Logging and Visualization
 We recommend using wandb for logging and visualization. To install it, run:
 ```python
-def greet():
-    print("Hello, world!")
+pip install wandb
+```loping, we are using the Poetry package manager. To install Poetry, follow the instructions here.
 
+```python
+$ git clone this-repo-url
+$ cd scGPT
+$ poetry install```
 ### Pretrained scGPT Model zoo
 
 ---
