@@ -67,6 +67,11 @@ scGPT_for_cell_density/run/data
 - Train the prediction head on the cell density prediction task
 - Compare predictions to PCA baseline 
 - Summarize the model and your cell density prediction outcomes in a report
+### Notebooks Organisation
+---
+- run/**Cell_density_regression** : Full notebook demonstrating the use of the scGPT pipeline to predict cell density through a regression approach.
+- run/**Cell_density_classif** : Incomplete notebook where the cell density problem is approached as a classification task.
+- run/draft/**First_glimpse_at_the_data** :  Notebook for initial exploration of the spatial dataset.
 
 ### Acknowledgements
 ---
