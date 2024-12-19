@@ -38,7 +38,8 @@ For developing, we are using the Poetry package manager. To install Poetry, foll
 ```bash
 $ git clone this-repo-url
 $ cd scGPT
-$ poetry install```
+$ poetry install
+```
 ### Pretrained scGPT Model zoo
 
 ---
